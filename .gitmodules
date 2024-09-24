@@ -1,0 +1,9 @@
+[submodule "3rdparty/mmdetection"]
+	path = 3rdparty/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "3rdparty/transformers"]
+	path = 3rdparty/transformers
+	url = https://github.com/huggingface/transformers.git
+[submodule "3rdparty/OpenSeeD"]
+	path = 3rdparty/OpenSeeD
+	url = https://github.com/franciszzj/OpenSeeD.git
